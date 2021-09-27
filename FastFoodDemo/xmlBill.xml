@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<customerBill>
+  <greeting> Thank you for the order ! </greeting>
+  <see> See you again !  </see>
+</customerBill>
